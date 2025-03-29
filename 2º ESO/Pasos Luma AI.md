@@ -6,6 +6,8 @@
 3. **Dispositivo compatible**: Puedes usar la app de Luma AI en iOS o la versión web para subir contenido.
 
 ## Cómo crear la cuenta desde el navegador 
+Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for free.
+![Captura de pantalla en la que se ve el menú en PC](./fotos/crear_cuenta.png)
 
 ## Pasos para Subir un Vídeo a Luma AI
 
@@ -22,6 +24,8 @@
 2. Presiona el botón **+ Crear** y selecciona **Subir Vídeo**.
 3. Selecciona el archivo de vídeo grabado.
 4. Presiona **Subir** y espera a que Luma AI procese el archivo.
+
+![Captura de pantalla en la que se ve el proceso en PC](./fotos/subir_video.png)
 
 #### Desde la Versión Web
 1. Accede a [Luma AI](https://lumalabs.ai/interactive-scenes) desde tu navegador.
