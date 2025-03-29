@@ -1,5 +1,3 @@
-# Doramas Digital
-
 ![Cabecera](./cabecera.jpg)
 
 Bienvenido a **Doramas Digital**, el repositorio donde se almacenará toda la información que se usará en clase.
