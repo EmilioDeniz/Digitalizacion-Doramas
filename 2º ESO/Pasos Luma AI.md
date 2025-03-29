@@ -7,6 +7,8 @@
 
 ## Cómo crear la cuenta desde el navegador 
 Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for free.
+
+
 ![Captura de pantalla en la que se ve el menú en PC](./fotos/crear_cuenta.png)
 
 ## Pasos para Subir un Vídeo a Luma AI
