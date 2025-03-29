@@ -27,13 +27,13 @@ Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for 
 3. Selecciona el archivo de vídeo grabado.
 4. Presiona **Subir** y espera a que Luma AI procese el archivo.
 
-![Captura de pantalla en la que se ve el proceso en PC](./fotos/subir_video.png)
-
 #### Desde la Versión Web
 1. Accede a [Luma AI](https://lumalabs.ai/interactive-scenes) desde tu navegador.
 2. Inicia sesión en tu cuenta.
-3. Haz clic en **Upload** y selecciona el archivo de vídeo.
+3. Haz clic en **Create** y selecciona el archivo de vídeo.
 4. Espera a que la plataforma procese el vídeo y genere el modelo 3D.
+
+![Captura de pantalla en la que se ve el proceso en PC](./fotos/subir_video.png)
 
 ## Consejos Adicionales
 - Usa buena iluminación para capturar detalles precisos en el vídeo.
