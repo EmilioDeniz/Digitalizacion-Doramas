@@ -17,7 +17,7 @@ Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for 
 1. Usa una cámara de buena calidad para capturar objetos, estructuras o espacios desde múltiples ángulos.
 2. Si estás capturando un objeto, muévete alrededor de él con una trayectoria suave y estable.
 3. Si estás capturando un lugar o una estructura grande, recorre el área asegurándote de cubrir todos los ángulos importantes, evitando movimientos bruscos.
-4. **Evita grabar a otras personas o a ti mismo** para cumplir con las políticas de privacidad y obtener mejores resultados en la reconstrucción 3D.
+4. **Evita grabar a otras personas o a ti mismo/a** para cumplir con las políticas de privacidad y obtener mejores resultados en la reconstrucción 3D.
 5. Mantén una iluminación adecuada para mejorar la calidad del modelo generado.
 
 ### 2. Subir el Vídeo a Luma AI
@@ -41,5 +41,5 @@ Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for 
 - Si capturas un objeto, asegúrate de grabarlo desde todos los ángulos.
 - Si capturas un lugar o estructura, recorre el área con una trayectoria fluida y completa.
 - Si los resultados no son óptimos, prueba con otra toma con mejor iluminación y un recorrido de cámara más estable.
-
-¡Listo! Ahora tu vídeo está subido a Luma AI y listo para su procesamiento.
+ 
+Con eso habrás generado tu primera fotografía 3D :smile:
