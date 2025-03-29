@@ -21,7 +21,7 @@ Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for 
 5. Mantén una iluminación adecuada para mejorar la calidad del modelo generado.
 
 ### 2. Subir el Vídeo a Luma AI
-#### Desde la Aplicación Móvil (iOS)
+#### Desde la Aplicación Móvil (iOS/Android)
 1. Abre la aplicación **Luma AI** en tu dispositivo.
 2. Presiona el botón **+ Crear** y selecciona **Subir Vídeo**.
 3. Selecciona el archivo de vídeo grabado.
