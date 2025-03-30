@@ -27,6 +27,8 @@ Simplemente debes acceder a la URL que he puesto y seleccionar start on Web for 
 3. Selecciona el archivo de vídeo grabado.
 4. Presiona **Subir** y espera a que Luma AI procese el archivo.
 
+También es posible hacer fotos desde la propia aplicación, pero es recomendable hacer un vídeo, porque así generas más imágenes (fotogramas) y por lo tanto,más información.
+
 #### Desde la Versión Web
 1. Accede a [Luma AI](https://lumalabs.ai/interactive-scenes) desde tu navegador.
 2. Inicia sesión en tu cuenta.
