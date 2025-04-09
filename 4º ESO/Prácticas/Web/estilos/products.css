@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Signalist';
+    src: url('../fuentes/Signalist.woff2') format('woff2'),
+        url('../fuentes/Signalist.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    display: flex;
+    font-family: sans-serif;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+h2 {
+    font-family: 'Signalist', sans-serif;
+    font-size: 5rem;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-family: 'Signalist', sans-serif;
+    font-size: 35px;
+}
+
+.product_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px; 
+    justify-items: center;
+}
+
+.product_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.product_info img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+}
+

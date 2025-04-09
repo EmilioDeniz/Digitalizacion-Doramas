@@ -1,0 +1,41 @@
+body,html {
+    margin: 0;
+    height: 100%;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+.cabecera iframe {
+    width: 100%;
+    height: 150px;
+    border: none;
+    overflow: hidden;
+}
+
+.principal {
+    display: flex;
+    height: calc(100% - 150px);
+}
+
+.menu {
+    width: 180px;
+}
+
+.menu iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.contenido {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+.contenido iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    overflow: hidden;
+}

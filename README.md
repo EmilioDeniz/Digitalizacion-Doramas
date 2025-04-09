@@ -6,5 +6,7 @@ Bienvenido a **Doramas Digital**, el repositorio donde se almacenará toda la in
 
 - **[2º de la ESO](./2º%20ESO/)**
 
+- **[4º de la ESO](./4º%20ESO/)**
+
 - **[1º de Bachillerato](./1º%20Bach/)**
 

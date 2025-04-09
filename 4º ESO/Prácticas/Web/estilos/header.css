@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-image {
+    width: auto; /* O poner width: 30% para respetar la proporción anterior*/
+    height: 150px;
+}
